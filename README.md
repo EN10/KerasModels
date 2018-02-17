@@ -2,7 +2,7 @@
 
 Models differ based on Accuracy and Performance:
 
-![Models](https://github.com/EN10/KerasModels/raw/master/images/Models.jpg)
+![Models](https://raw.githubusercontent.com/EN10/KerasModels/master/Models.jpg)
 
 * [Keras Models](https://keras.io/applications)   
 * [Keras Models in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/keras/applications)
