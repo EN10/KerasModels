@@ -36,6 +36,16 @@ NASnet Error `ImportError: No module named nasnet` Fix:
 | NASNetMobile  | 38s  | 24M | see below |
 | NASNetLarge  | 5-12m | 344M | [nasnet.py](https://github.com/EN10/KerasInception/blob/master/models/nasnet.py) |
 
+### colab
+
+run `nasnet.py`     
+in line 1 & 2 add `from tensorflow.python.`
+
+Performance excluding model download:   
+`cpu` - 88s     
+`gpu` - 34s
+
+
 ### FloydHub
 
 [FloydHub](https://github.com/EN10/FloydHub) increases performance, compiled to use `SSE4.1 SSE4.2 AVX`     
