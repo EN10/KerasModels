@@ -32,9 +32,9 @@ NASnet Error `ImportError: No module named nasnet` Fix:
 | Model | Performance (c9 approx) | Size | Example |
 | ------------- | ------------- | ------------- | ------------- |
 | Inception V3 | 10s | 92M | [predict.py](https://github.com/EN10/KerasInception/blob/master/predict.py) |
-| InceptionResNetV2  | 50s  | 215M | [irn2.py](https://github.com/EN10/KerasModels/blob/master/models/irn2.py) |
+| InceptionResNetV2  | 50s  | 215M | [irn2.py](https://github.com/EN10/KerasModels/blob/master/irn2.py) |
 | NASNetMobile  | 38s  | 24M | see below |
-| NASNetLarge  | 5-12m | 344M | [nasnet.py](https://github.com/EN10/KerasModels/blob/master/models/nasnet.py) |
+| NASNetLarge  | 5-12m | 344M | [nasnet.py](https://github.com/EN10/KerasModels/blob/master/nasnet.py) |
 
 ### colab
 
